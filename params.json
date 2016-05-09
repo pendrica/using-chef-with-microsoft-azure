@@ -1,0 +1,6 @@
+{
+  "name": "Using Chef with Microsoft Azure",
+  "tagline": "This book is your hands-on guide to infrastructure provisioning and configuration management in the cloud with Chef’s open source, cross-platform toolset.",
+  "body": "### Welcome to Using Chef with Microsoft Azure.\r\nThis site has been created to keep you up to date with the latest tools and developments for \"Using Chef with Microsoft Azure\", a technical book by @stuartpreston, published by [Apress](http://www.apress.com/9781484214770)\r\n\r\n## Timeline\r\nMay 2016 - the book has been proofed and we anticipate the release of the book by the end of the month!\r\n\r\n## Where can I get it\r\n### eBook\r\n- The book can be downloaded as an eBook from http://www.apress.com/9781484214770 \r\n\r\n### Paperback\r\n- (US) http://www.amazon.com/Using-Microsoft-Azure-Stuart-Preston/dp/1484214773\r\n- (UK) https://www.amazon.co.uk/Using-Microsoft-Azure-Stuart-Preston/dp/1484214773\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
